@@ -1,5 +1,5 @@
 # GANs
-Integration of 5 basic GAN models.
+Integration of 5 basic GAN models, using Pytorch.
 
 ## 5 basic GANs
 
