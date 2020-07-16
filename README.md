@@ -8,7 +8,7 @@ Integration of 5 basic GAN models.
     * fix some errors and add comments to understand easily.
 2. CycleGAN
 3. StarGAN
-4. MUNI
+4. MUNIT
 5. DRIT
 
 
